@@ -1,0 +1,1 @@
+print('Practice Day 1 : 22-06-2022 : 00:56')
